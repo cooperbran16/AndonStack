@@ -52,9 +52,10 @@ This project uses a modified version of the **Modular WS2812 NeoPixel Stack Ligh
 
 Print the following:
 - 1x Base
+- 1x Bottom cap
 - 1x Pole  
 - 3x Diffuser sections (white/translucent filament recommended)
-- 3x Spacer rings (black filament recommended)
+- 2x Spacer rings (black filament recommended)
 - 1x Top cap
 
 ## Wiring
