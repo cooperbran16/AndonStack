@@ -2,7 +2,7 @@
 
 A physical RGB stack light indicator for radio dispatch consoles, built with an ESP32-C3 and WS2812B NeoPixel LED rings.
 
-![AndonStack displaying green](images/andonstack-green.jpg)
+![AndonStack displaying green](images/andonstack_3mf.jpg)
 
 ## Overview
 
