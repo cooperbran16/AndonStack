@@ -129,7 +129,7 @@ The console automatically sends status updates based on radio activity.
 ## Credits
 
 - **3D Enclosure Design:** [NilsR](https://www.printables.com/@NilsR_331850) on Printables
-- **Firmware & Integration:** Brandon Cooper (KE8VEQ)
+- **Firmware & Integration:** Brandon Cooper
 
 ## Related Projects
 
