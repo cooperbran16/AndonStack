@@ -46,7 +46,7 @@ Connecting to the console automatically exits standalone mode.
 
 This project uses a modified version of the **Modular WS2812 NeoPixel Stack Light** by **giantpune** on Printables.
 
-**Original design:** [Modular WS2812 NeoPixel Stack Light (Andon)](https://www.printables.com/model/700641-modular-ws2812-neopixel-stack-light-andon) by giantpune - Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+**Original design:** [Modular WS2812 NeoPixel Stack Light (Andon)](https://www.printables.com/model/700641-modular-ws2812-neopixel-stack-light-andon) by NilsR - Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **Modifications made:** Upsized diffuser sections to accommodate the LED ring boards listed above.
 
@@ -128,7 +128,7 @@ The console automatically sends status updates based on radio activity.
 
 ## Credits
 
-- **3D Enclosure Design:** [giantpune](https://www.printables.com/@giantpune) on Printables
+- **3D Enclosure Design:** [NilsR](https://www.printables.com/@NilsR_331850) on Printables
 - **Firmware & Integration:** Brandon Cooper (KE8VEQ)
 
 ## Related Projects
