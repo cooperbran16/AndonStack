@@ -63,8 +63,8 @@ Print the following:
 ```
 ESP32-C3 SuperMini          WS2812B Rings
 ──────────────────          ─────────────
-     5V  ─────────────────── VCC (all rings)
-    GND  ─────────────────── GND (all rings)
+     5V  ─────────────────── VCC (Ring 1 - Green/Bottom)
+    GND  ─────────────────── GND (Ring 1 - Green/Bottom)
   GPIO4  ─────────────────── DIN (Ring 1 - Green/Bottom)
                              DOUT → DIN daisy chain between rings
 ```
